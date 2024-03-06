@@ -1,0 +1,14 @@
+{
+  "name": "ask-juan",
+  "version": "1.0.0",
+  "description": "Ask anything to Juan",
+  "main": "index.js",
+  "bin": {
+    "ask": "./idk.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Arbol",
+  "license": "MIT"
+}
